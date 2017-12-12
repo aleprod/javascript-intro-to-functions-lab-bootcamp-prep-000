@@ -1,7 +1,7 @@
-/*function shout(string){
+function shout(string){
   return string.toUpperCase();
 }
-function whisper(string){
+/*function whisper(string){
   return string.toLowerCase();
 }
 function logShout(string){
@@ -20,12 +20,11 @@ function sayHiToGrandma(){
 
   }
 }
-/*
+
 shout.toUpperCase("hello");
 whisper.toLowerCase("hello");
 logShout.toUpperCase("HELLO");
 spy("Hello");
 logWhisper.toLowerCase("hello");
 sayHiToGrandma.toMixedCase("I love you, Grandma");
-
 */
